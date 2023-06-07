@@ -1,0 +1,55 @@
+.corpo{
+    background-color:brown;
+}
+
+.h1{
+    font-size:45px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: beige;
+    font-weight:200;
+    color:rgb(0, 0, 0);
+}
+
+.h2{
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    text-align: center;
+
+}
+
+.paragrafo{
+    font-size: larger;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.div{
+    background-color: beige;
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    
+}
+
+.divG{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    justify-content: space-around;
+}
+
+.divM{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    
+}
+
+.a{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    color: white;
+}
